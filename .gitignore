@@ -1,0 +1,14 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+
+# Backup files
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
